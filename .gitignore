@@ -400,3 +400,6 @@ FodyWeavers.xsd
 # My specifics
 .dart_tool
 pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
